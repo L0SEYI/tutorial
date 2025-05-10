@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>SEYI</Text>
+      <Text>SEYI...r</Text>
     </View>
   );
 }
